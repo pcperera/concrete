@@ -1,8 +1,8 @@
-## Prediction of Concrete Compressive Strength
+# Prediction of Concrete Compressive Strength
 
-### Descriptive Analysis
+## Descriptive Analysis
 
-#### Univariates
+### Univariates
 
 |       | Cement \(component 1\)\(kg in a m^3 mixture\) | Blast Furnace Slag \(component 2\)\(kg in a m^3 mixture\) | Fly Ash \(component 3\)\(kg in a m^3 mixture\) | Water  \(component 4\)\(kg in a m^3 mixture\) | Superplasticizer \(component 5\)\(kg in a m^3 mixture\) | Coarse Aggregate  \(component 6\)\(kg in a m^3 mixture\) | Fine Aggregate \(component 7\)\(kg in a m^3 mixture\) | Age \(day\) | Concrete compressive strength\(MPa, megapascals\) |
 |:------|:----------------------------------------------|:----------------------------------------------------------|:-----------------------------------------------|:----------------------------------------------|:--------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------|:------------|:--------------------------------------------------|
@@ -16,5 +16,14 @@
 | std   | 104.506364                                    | 86.279342                                                 | 63.997004                                      | 21.354219                                     | 5.973841                                                | 77.753954                                                | 80.175980                                             | 63.169912   | 16.705742                                         |
 
 
-#### Pair-plots
+### Histograms
+
+#### Concrete compressive strength\(MPa\)
+![img_1.png](img_1.png)
+
+
+
+### Pair-plots
 ![img.png](img.png)
+
+
